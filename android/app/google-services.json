@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392048785681",
+    "project_id": "smartagro-68747",
+    "storage_bucket": "smartagro-68747.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392048785681:android:f3cdce52d2c57bfd0bf4b0",
+        "android_client_info": {
+          "package_name": "com.example.smartagro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_gLlezbpCLP2fyOTjmHOW14MaQvW6Pso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
